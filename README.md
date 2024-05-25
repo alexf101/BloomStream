@@ -1,7 +1,7 @@
 ## Backlog
 
-- [] parse flags for array size and pass-through
-- [] create bitvector array to store cache using trait/type
+- [x] parse flags for array size and pass-through
+- [x] create bitvector array to store cache using trait/type
 - [] accept rw traffic via server
 - [] create second array with passthrough 10% (flag)
 - [] for v1, accept memory allocation directly
